@@ -4,3 +4,5 @@
 <!---
     .. / .-.. --- ...- . / -.-- --- ..- / ... --- -. --. ..-- .-.. .-.-.-
 --->
+
+c, c++, go, embedded linux, electronics, cryptology, web technologies
